@@ -1,12 +1,12 @@
 # INSTALLATION
 ```toml
 [dependencies]
-granular-metrics = "0.1.0"
+granular-metrics = "0.2.1"
 ```
 Or with optional [actix-web](https://crates.io/crates/actix-web) HTTP endpoint
 ```toml
 [dependencies]
-granular-metrics = { version = "0.1.0", features = ["http"] }
+granular-metrics = { version = "0.2.1", features = ["http"] }
 ```
 # HOW TO USE
 ## ONE: Define 

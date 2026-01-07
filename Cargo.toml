@@ -1,6 +1,6 @@
 [package]
 name = "granular-metrics"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2024"
 rust-version = "1.85.1"
 authors = ["Gistyr LLC <contact@gistyr.dev>"]
